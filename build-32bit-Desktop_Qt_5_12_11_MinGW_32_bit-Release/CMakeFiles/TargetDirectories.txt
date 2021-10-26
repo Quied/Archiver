@@ -1,0 +1,4 @@
+C:/Users/User/Desktop/build-32bit-Desktop_Qt_5_12_11_MinGW_32_bit-Release/CMakeFiles/32bit.dir
+C:/Users/User/Desktop/build-32bit-Desktop_Qt_5_12_11_MinGW_32_bit-Release/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/build-32bit-Desktop_Qt_5_12_11_MinGW_32_bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Desktop/build-32bit-Desktop_Qt_5_12_11_MinGW_32_bit-Release/CMakeFiles/32bit_autogen.dir
